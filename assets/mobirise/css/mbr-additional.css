@@ -1941,51 +1941,81 @@ section.lazy-placeholder:after {
 .cid-s5IyFgaUBa .media-container-row .mbr-text {
   color: #232323;
 }
-.cid-s5IIzVnnGV {
+.cid-s5OUbABOow {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/canva-fine-dining-setting-2000x1333.jpg");
+  background-color: #f9f295;
 }
-.cid-s5IIzVnnGV h4 {
-  width: 85%;
-  font-weight: 500;
-  margin-bottom: 0;
-}
-.cid-s5IIzVnnGV p {
+.cid-s5OUbABOow .pricing {
+  padding: 3.3rem;
   color: #767676;
-}
-.cid-s5IIzVnnGV .card-wrapper {
-  border-top: 1px solid #782473;
-  background-color: #55b4d4;
-  position: relative;
-  justify-content: unset;
-}
-.cid-s5IIzVnnGV .card-wrapper .card-box {
-  padding: 2rem;
-  width: 100%;
-}
-.cid-s5IIzVnnGV .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-s5IIzVnnGV .card-wrapper .card-box .bottom-line {
-  width: 85%;
+  background-color: #fff;
 }
 @media (max-width: 767px) {
-  .cid-s5IIzVnnGV .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-s5IIzVnnGV .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
+  .cid-s5OUbABOow .pricing {
+    padding: 1.5rem;
   }
 }
-.cid-s5IIzVnnGV .b-descr {
-  color: #ffffff;
+.cid-s5OUbABOow .plan-header,
+.cid-s5OUbABOow .plan-body {
+  background-color: #fff;
 }
-.cid-s5IIzVnnGV .cost {
-  color: #ffffff;
+.cid-s5OUbABOow .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-s5OUbABOow .price-figure {
+  font-weight: 700;
+  color: #7f1933;
+}
+@media (max-width: 550px) {
+  .cid-s5OUbABOow .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-s5OUbABOow .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-s5OUbABOow hr {
+  margin: 2rem 0;
+}
+.cid-s5OUkr713l {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s5OUkr713l .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-s5OUkr713l .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-s5OUkr713l .plan-header,
+.cid-s5OUkr713l .plan-body {
+  background-color: #fff;
+}
+.cid-s5OUkr713l .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-s5OUkr713l .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-s5OUkr713l .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-s5OUkr713l .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-s5OUkr713l hr {
+  margin: 2rem 0;
 }
 .cid-s5IQ98P1nn {
   padding-top: 60px;
